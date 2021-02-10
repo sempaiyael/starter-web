@@ -8,5 +8,8 @@ showing how to use Git and Github together
 adding some introdution
 
 ## Purpose 
+
+something something shitshit 
+
 ## Deployment
 ## How To Contribute
