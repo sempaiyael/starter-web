@@ -12,4 +12,9 @@ adding some introdution
 something something shitshit 
 
 ## Deployment
+
+lorem ipsum dimsum bulltshit
+
 ## How To Contribute
+
+jakdsfbkjsalbvlajksdvnasdjgbfasdlkjf 
